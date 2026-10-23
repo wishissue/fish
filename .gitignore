@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.o
+*.out
+.venv/
+.idea/
+.vscode/
+.DS_Store
+# compiled Fish programs
+hello
+a.out
